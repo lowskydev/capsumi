@@ -61,7 +61,7 @@ During our Erasmus semester in Portugal, we met amazing **Romanian flatmates**, 
 The strawberry became our own little capsule — a symbol of friendship and shared memories.
 Capsumi represents preserving moments worth keeping and revisiting while staying rooted in the connections and stories that shape them.
 
-## 💻 Tech Stack
+## Tech Stack
 
 - **React** (frontend framework)
 - **Vite** (build tool)
