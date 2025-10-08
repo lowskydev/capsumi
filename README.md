@@ -1,3 +1,11 @@
+<div align="center">
+
+[![React](https://img.shields.io/badge/React-19.1-61DAFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DAFB)](https://reactjs.org/)
+[![Vite](https://img.shields.io/badge/Vite-7.1-646CFF?style=for-the-badge&labelColor=black&logo=vite&logoColor=646CFF)](https://vitejs.dev/)
+[![TailwindCSS](https://img.shields.io/badge/TailwindCSS-4.1-38B2AC?style=for-the-badge&labelColor=black&logo=tailwind-css&logoColor=38B2AC)](https://tailwindcss.com/)
+
+<div align="center">
+
 #  🍓 Capsumi
 
 **Capsumi** is a **frontend-only web application** built as part of the **PMI (Person–Machine Interaction / Human–Computer Interaction)** course during an **Erasmus semester in Portugal**.
