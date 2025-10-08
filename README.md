@@ -21,8 +21,6 @@ A **capsule** is a collection of digital data — including photos, videos, musi
 Users can create personal capsules or shared ones with friends and family.
 Each capsule can be customised with **themes, colours, and notes**, making it a personal experience that adds an element of **anticipation**.
 
----
-
 ## Project Goals
 
 - Create time capsules with photos, videos, music, and files
@@ -39,14 +37,10 @@ Additional features may include:
 - Countdown animations
 - Badges for engagement
 
----
-
 ## Target Users
 
 Capsumi is made **for everyone** who wants to **store photos, videos, music, or files** in a meaningful and memorable way.
 Our main audience includes **young adults and students**, but the app is open to all who value digital memories and emotional design.
-
----
 
 ## The Story Behind the Name
 
@@ -58,8 +52,6 @@ During our Erasmus semester in Portugal, we met amazing **Romanian flatmates**, 
 
 The strawberry became our own little capsule — a symbol of friendship and shared memories.
 Capsumi represents preserving moments worth keeping and revisiting while staying rooted in the connections and stories that shape them.
-
----
 
 ## 💻 Tech Stack
 
