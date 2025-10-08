@@ -4,7 +4,7 @@
 [![Vite](https://img.shields.io/badge/Vite-7.1-FF3855?style=for-the-badge&labelColor=black&logo=vite&logoColor=E63946)](https://vitejs.dev/)
 [![TailwindCSS](https://img.shields.io/badge/TailwindCSS-4.1-38B2AC?style=for-the-badge&labelColor=black&logo=tailwind-css&logoColor=38B2AC)](https://tailwindcss.com/)
 
-<div align="center">
+</div align="center">
 
 #  🍓 Capsumi
 
