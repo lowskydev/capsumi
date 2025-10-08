@@ -1,4 +1,4 @@
-# 🌸 Capsumi
+#  🍓 Capsumi
 
 **Capsumi** is a **frontend-only web application** built as part of the **PMI (Person–Machine Interaction / Human–Computer Interaction)** course during an **Erasmus semester in Portugal**.
 It is the **only frontend project** made for this course in Portugal.
